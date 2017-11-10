@@ -1,0 +1,2 @@
+# we do not need npm modules
+example1/node_modules/*
